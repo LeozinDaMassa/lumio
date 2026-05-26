@@ -54,15 +54,3 @@ This project was created to improve my skills in:
 ### Database
 
 - 🐬 MySQL
-
----
-
-## 📂 Project Structure
-
-```bash
-lumio/
-├── lumio-web/
-├── lumio-api/
-├── screenshots/
-└── README.md
-```
