@@ -1,4 +1,4 @@
-# ✨ Lumio
+# 🌑 Lumio
 
 > A modern social media platform built to connect people and share moments.
 
